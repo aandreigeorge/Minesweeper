@@ -1,3 +1,6 @@
+# GIF project preview
+![](https://github.com/aandreigeorge/Minesweeper/blob/main/MinesweeperGif.gif)
+
 # Minesweeper
 Minesweeper implementation using a two-dimensional array of Cell objects and recursive calls to automatically open neighboring cells if they are not mines. 
 
