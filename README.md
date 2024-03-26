@@ -1,6 +1,3 @@
-# GIF project preview
-![](https://github.com/aandreigeorge/Minesweeper/blob/main/MinesweeperGif.gif)
-
 # Minesweeper
 Minesweeper implementation using a two-dimensional array of Cell objects and recursive calls to automatically open neighboring cells if they are not mines. 
 
@@ -22,3 +19,6 @@ There are three possibilities after exploring a cell:
 There are two possible ways to win:
 1.Marking all the cells that have mines correctly.
 2.Opening all the safe cells so that only those with unexplored mines are left.
+
+# GIF project preview
+![](https://github.com/aandreigeorge/Minesweeper/blob/main/MinesweeperGif.gif)
